@@ -1,0 +1,16 @@
+c:\users\administrator\documents\visual studio 2013\Projects\DatabaseManagement\DatabaseManagement\bin\Debug\DatabaseManagement.dll
+c:\users\administrator\documents\visual studio 2013\Projects\DatabaseManagement\DatabaseManagement\bin\Debug\DatabaseManagement.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\DatabaseManagement\DatabaseManagement\bin\Debug\DatabaseManagement.pri
+c:\users\administrator\documents\visual studio 2013\Projects\DatabaseManagement\DatabaseManagement\obj\Debug\DatabaseManagement.dll
+c:\users\administrator\documents\visual studio 2013\Projects\DatabaseManagement\DatabaseManagement\obj\Debug\DatabaseManagement.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\DatabaseManagement\DatabaseManagement\obj\Debug\priconfig.xml
+c:\users\administrator\documents\visual studio 2013\Projects\DatabaseManagement\DatabaseManagement\obj\Debug\priconfig.xml.intermediate
+c:\users\administrator\documents\visual studio 2013\Projects\DatabaseManagement\DatabaseManagement\obj\Debug\layout.resfiles
+c:\users\administrator\documents\visual studio 2013\Projects\DatabaseManagement\DatabaseManagement\obj\Debug\layout.resfiles.intermediate
+c:\users\administrator\documents\visual studio 2013\Projects\DatabaseManagement\DatabaseManagement\obj\Debug\resources.resfiles
+c:\users\administrator\documents\visual studio 2013\Projects\DatabaseManagement\DatabaseManagement\obj\Debug\resources.resfiles.intermediate
+c:\users\administrator\documents\visual studio 2013\Projects\DatabaseManagement\DatabaseManagement\obj\Debug\pri.resfiles
+c:\users\administrator\documents\visual studio 2013\Projects\DatabaseManagement\DatabaseManagement\obj\Debug\pri.resfiles.intermediate
+c:\users\administrator\documents\visual studio 2013\Projects\DatabaseManagement\DatabaseManagement\obj\Debug\qualifiers.txt
+c:\users\administrator\documents\visual studio 2013\Projects\DatabaseManagement\DatabaseManagement\obj\Debug\qualifiers.txt.intermediate
+c:\users\administrator\documents\visual studio 2013\Projects\DatabaseManagement\DatabaseManagement\obj\Debug\MultipleQualifiersPerDimensionFound.txt
