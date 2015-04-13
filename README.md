@@ -1,2 +1,2 @@
 # DatabaseManagement
-For Database table
+Sqlite For table
